@@ -15,7 +15,11 @@
 git clone --filter=blob:none --sparse https://github.com/qiushui-ai/ai-for-your-life.git website-translation-project
 
 ```
+进入项目目录下
 
+```
+cd website-translation-project/
+```
 
 安装依懒
 
