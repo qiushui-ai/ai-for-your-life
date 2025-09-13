@@ -31,8 +31,15 @@ npm i
 
 #### Ollama 快速设置
 
-1. 下载模型: `ollama pull gemma3:12b`
-2. 启动服务: `ollama serve`
+1. 下载模型: 
+```
+ollama pull gemma3:12b
+```
+
+2. 启动服务: 
+```
+ollama serve
+```
 3. 配置 `config.json`:
 
 ```json
@@ -47,10 +54,16 @@ npm i
 
 
 
-### 运行
+### 运行项目，开始翻译
+执行如下命令
 
-- 运行 `node run.js 项目名` 例如 `node run.js nodedoc` 等待翻译
-
+```
+node run.js 项目名
+```
+例如：
+```
+node run.js nodedoc
+```
 
 ### 说明
 
