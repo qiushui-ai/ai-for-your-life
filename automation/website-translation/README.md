@@ -29,8 +29,7 @@ npm i
 
 ### 准备
 
-- 将你需要翻译的网页放在根目录下 `html/项目名` 下
-- 例如 nodejs 文档放在 `html/nodedoc/`
+将你需要翻译的网页放在根目录下 `html/项目名` 下，例如 nodejs 文档放在 `html/docs-n8n/`
 
 
 #### Ollama 快速设置
@@ -66,7 +65,7 @@ node run.js 项目名
 ```
 例如：
 ```
-node run.js nodedoc
+node run.js docs-n8n
 ```
 
 ### 说明
