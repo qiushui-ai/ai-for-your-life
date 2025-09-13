@@ -12,13 +12,13 @@
 拉取仓库
 
 ```
-git clone --filter=blob:none --sparse https://github.com/qiushui-ai/ai-for-your-life.git website-translation-project
+git clone https://github.com/qiushui-ai/ai-for-your-life.git
 
 ```
 进入项目目录下
 
 ```
-cd website-translation-project/
+cd ai-for-your-life/automation/website-translation/
 ```
 
 安装依懒

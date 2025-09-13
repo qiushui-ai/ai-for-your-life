@@ -8,8 +8,8 @@
     "dev": "node run.js ",
     "test-translation": "node test-translation.js"
   },
-  "author": "读心印 <839024615@qq.com>",
-  "license": "ISC",
+  "author": "秋水 <cnyanhai@qq.com>",
+  "license": "MIC",
   "dependencies": {
     "@langchain/community": "^0.3.53",
     "@langchain/core": "^0.3.72",
